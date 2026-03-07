@@ -1,0 +1,58 @@
+
+/* Стилі input */
+#datetime-picker {
+    width: 272px;
+    height: 40px;
+    align-items: flex-start;
+    margin-right: 8px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    font-size: 16px;
+    margin-bottom: 32px;
+}
+
+/* Стилі кнопки */
+button {
+    align-items: center;
+    border-radius: 8px;
+    width: 75px;
+    height: 40px;
+    background: #cfcfcf;
+    border: none;
+    cursor: pointer;
+    font-size: 14px;
+}
+
+/* Стилі контейнера таймера */
+.timer {
+    display: flex;
+    justify-content: center;
+    align-items: flex-start;
+    gap: 24px;
+    width: 100%;
+    max-width: 346px;
+}
+
+/* Стилі полів таймера */
+.field {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    width: 55px;
+    height: 72px;
+}
+
+
+/* Значення таймера */
+.value {
+    font-size: 32px;
+    font-weight: bold;
+    color: #000;
+}
+
+/* Підпис під значенням */
+.label {
+    font-size: 12px;
+    color: #555;
+}
