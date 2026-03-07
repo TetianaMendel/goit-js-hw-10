@@ -30,7 +30,6 @@ button {
     align-items: flex-start;
     gap: 24px;
     width: 100%;
-    max-width: 346px;
 }
 
 /* Стилі полів таймера */

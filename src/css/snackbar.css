@@ -59,7 +59,7 @@ fieldset label {
     cursor: pointer;
 }
 
-button {
+.btn-snackbar {
     width: 392px;
     height: 40px;
     display: flex;
@@ -76,6 +76,6 @@ button {
     transition: background-color 250ms ease;
 }
 
-button:hover {
+.btn-snackbar:hover {
     background-color: #6c8cff;
 }
