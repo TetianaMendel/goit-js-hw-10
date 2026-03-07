@@ -12,7 +12,7 @@
 }
 
 /* Стилі кнопки */
-button {
+.btn-timer {
     align-items: center;
     border-radius: 8px;
     width: 75px;
